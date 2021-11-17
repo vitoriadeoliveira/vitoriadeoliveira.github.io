@@ -534,3 +534,8 @@ a {
     max-width: 1310px;
   }
 }
+
+#changed {
+  -webkit-filter: hue-rotate(180deg);
+  filter: hue-rotate(180deg);
+}
