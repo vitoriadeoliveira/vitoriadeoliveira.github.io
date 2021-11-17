@@ -536,6 +536,11 @@ a {
 }
 
 #changed {
-  -webkit-filter: hue-rotate(180deg);
-  filter: hue-rotate(180deg);
+  -webkit-filter: hue-rotate(69deg);
+  filter: hue-rotate(69deg);
+}
+
+#changed2 {
+  -webkit-filter: hue-rotate(320deg);
+  filter: hue-rotate(320deg);
 }
